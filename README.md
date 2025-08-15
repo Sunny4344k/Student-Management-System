@@ -70,10 +70,10 @@ This project uses **file handling** to store student data persistently and **OOP
 
 ## 📷 Screenshots
 ### Main Menu
-![Main Menu](Screenshot2.png)
+![Main Menu](Screenshot1.jpg)
 
 ### Display Students
-![Display Students](Screenshot1.png)
+![Display Students](Screenshot2.jpg)
 
 ---
 
