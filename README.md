@@ -96,4 +96,3 @@ This project uses **file handling** to store student data persistently and **OOP
 ## 👤 Author
 **Sayan Nandi**  
 # Student-Management-System
-this file contains my student management system
